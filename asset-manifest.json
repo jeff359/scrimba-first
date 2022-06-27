@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrimba-first/static/css/main.e270032b.css",
+    "main.js": "/scrimba-first/static/js/main.dcb43993.js",
+    "index.html": "/scrimba-first/index.html",
+    "main.e270032b.css.map": "/scrimba-first/static/css/main.e270032b.css.map",
+    "main.dcb43993.js.map": "/scrimba-first/static/js/main.dcb43993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e270032b.css",
+    "static/js/main.dcb43993.js"
+  ]
+}
